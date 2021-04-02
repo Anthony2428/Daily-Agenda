@@ -25,7 +25,7 @@ Upon clicking on the View Events button the user will be presented each Event th
 
 ![Screenshot of Web App:](./Assets/Daily-Agenda-Screenshot.png)
 
-GITHUB URL: https://github.com/Anthony2428/Daily-Agenda
+GITHUB URL: https://github.com/Anthony2428/Daily-Agenda</br>
 Deplotment URL: https://anthony2428.github.io/Daily-Agenda/</br></br>
 
 # 05 Third-Party APIs: Work Day Scheduler
